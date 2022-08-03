@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor/static/css/main.cfa6c080.css",
+    "main.js": "/frontend-mentor/static/js/main.0ac91026.js",
+    "static/media/image1.png": "/frontend-mentor/static/media/image1.50cc22fddeb0c072b414.png",
+    "static/media/image2.png": "/frontend-mentor/static/media/image2.adefc8b1bbed2ca80470.png",
+    "static/media/databiz.svg": "/frontend-mentor/static/media/databiz.d1e7955f847e089183caf61eb54feb51.svg",
+    "static/media/maker.svg": "/frontend-mentor/static/media/maker.3859368b1ba7e579d814353870c9edb0.svg",
+    "static/media/meet.svg": "/frontend-mentor/static/media/meet.2d6ffbad4108ea24377c66fe7655736e.svg",
+    "static/media/audiophile.svg": "/frontend-mentor/static/media/audiophile.8c670cdffe9fb124c848d53dcbee7913.svg",
+    "index.html": "/frontend-mentor/index.html",
+    "static/media/planning.svg": "/frontend-mentor/static/media/planning.d573f5028c4469edf76a0b57065af566.svg",
+    "static/media/calender.svg": "/frontend-mentor/static/media/calender.238c231afbc7d43b81c625ceea0d1b37.svg",
+    "static/media/reminders.svg": "/frontend-mentor/static/media/reminders.84eeba8f3b9a1811c1ea3d7420dcfd98.svg",
+    "static/media/todo.svg": "/frontend-mentor/static/media/todo.84eeba8f3b9a1811c1ea3d7420dcfd98.svg",
+    "static/media/icon-menu.svg": "/frontend-mentor/static/media/icon-menu.863803c904916606b7a1.svg",
+    "static/media/menu.svg": "/frontend-mentor/static/media/menu.863803c904916606b7a1.svg",
+    "static/media/arrowUp.svg": "/frontend-mentor/static/media/arrowUp.01861a1152dfab5f1070228d306352f4.svg",
+    "main.cfa6c080.css.map": "/frontend-mentor/static/css/main.cfa6c080.css.map",
+    "main.0ac91026.js.map": "/frontend-mentor/static/js/main.0ac91026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa6c080.css",
+    "static/js/main.0ac91026.js"
+  ]
+}
